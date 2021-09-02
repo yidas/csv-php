@@ -1,0 +1,15 @@
+{
+    "name": "yidas/csv",
+    "description": "PHP CSV writer & reader with settings of quoting enclosure and encoding",
+    "keywords": ["PHP", "CSV", "CSV Reader", "CSV Writer", "Excel CSV", "Quoting CSV"],
+    "homepage": "https://github.com/yidas/csv-php",
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/yidas/csv-php/issues",
+        "source": "https://github.com/yidas/csv-php"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
